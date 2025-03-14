@@ -45,6 +45,7 @@ Dive into a suite of features that blend nostalgia with little bit of Unreal mag
 - F for focus on selected actor.
 - When holding RMButton you can adjust floating speed with your mouse wheel.
 - When moving object you can hold shift to move with it.
-- Console Commands used in video
-- .\tes3cellexport.exe 'C:\Games\Morrowind\Data Files\Morrowind.esm' ..\..\Imports\Nissintu.json Nissintu
-- .\tes3conv.exe ..\..\Exports\export.json ..\..\Exports\NissintuCustom.esp
+- Console Commands for getting single .esp from .esm or using tes3conv tools
+- .\tes3cellexport.exe 'C:\Games\Morrowind\Data Files\Morrowind.esm' ..\..\Plugins\Nissintu.json Nissintu
+- .\tes3conv.exe ..\..\Plugins\export.json ..\..\Plugins\NissintuCustom.esp
+- .\tes3conv.exe ..\..\Plugins\Nissintu.esp ..\..\Plugins\Nissintujson.json
