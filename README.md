@@ -15,7 +15,7 @@ Dive into a suite of features that blend nostalgia with little bit of Unreal mag
 - **ESP Import (esp->json->unreal for now)**: When you want to create your build whole new Cell or just curate overlaps.  
 - **ESP Export (unreal->json->esp for now)**: When your masterpiece is complete, export your level to an `.esp` file, ready to shine in the wild.
 
-### Cons here
+### Cons
 - Early alpha version, not production ready. Please report bugs. 
 - **Modifying Input ESM/ESP Records**: This is an object placement tool, not an editor for existing records.  
 - Easily switching support for .esm files. Default set for Morrowind.esm, Tribunal.esm, Bloodmoon.esm and Tamriel_Data.esm. Can be altered with habasi and custom esmtool.
@@ -23,8 +23,12 @@ Dive into a suite of features that blend nostalgia with little bit of Unreal mag
 - Couple of meshes won't import or there are some texture issues (mostly TR, working on direct .nif to unreal importer where I fix these).
 - Weird looking creatures and fallback mesh for NPCs (just cosmetics, placing still working fine in game).
 - UI bugs
-- And A LOT of things and bugs I don't know about yet. 
-
+- And A LOT of things and bugs I don't know about yet.
+  
+### Download Links
+- https://www.mediafire.com/file/2dp75gorb4cgboi/00_Empty54.zip/file
+- https://mega.nz/file/huhkBTJA#WiaArnzmhak6SfDEyag965uQzEYGYLtKtSU8Dx4Oz3Q
+  
 ### Installation
 1. Install Unreal Engine 5.4.4
 2. Extract unreal project 00_Empty54.zip file
