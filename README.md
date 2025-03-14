@@ -3,6 +3,8 @@
 
 Welcome to a new approach in modding Morrowind. It’s an alternative toolkit designed to empower you to build, enhance, or meticulously curate your own interior levels with finesse and flair. (Fear not, exterior tools are on the horizon, so stay tuned!)
 
+![Feature Demo](./fall1.gif)
+
 ### What Awaits You  
 Dive into a suite of features that blend nostalgia with little bit of Unreal magic:  
 - **Object Placement Reimagined**: Channel the spirit of the TES Construction Set Object Window, complete with search functionality. Drag, drop, and position your assets with ease.  
