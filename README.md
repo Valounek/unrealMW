@@ -35,7 +35,7 @@ Dive into a suite of features that blend nostalgia with little bit of Unreal mag
 1. Install Unreal Engine 5.4.4
 2. Extract unreal project 00_Empty54.zip file
 3. Copy Tamriel_Data (if you really want to use meshes from it) meshes and textures folders to /Data Files/_unrealfolder/extracted (script expects all other .bsa files in /Data Files folder)
-4. Edit paths in initscript.py script in 00_Empty54/Plugins/unrealMW/Resources folder and run it
+4. Edit paths in initscript.py script in 00_Empty54/Plugins/unrealMW/Resources folder, uncomment line #extractBSAs() by deleting #, save and run it
 5. Run Empty54.uproject and yes to compile
 6. Done, you should see empty level and plugin window with tabs
 
